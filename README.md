@@ -1,5 +1,5 @@
 ### Hello, world! 👋
-#### Welcome to my space. I'll let you know from now on.  
+#### Welcome to my space. Let me tell you about me from now on.
 
 
 ## 💡 Introduction
