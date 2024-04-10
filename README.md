@@ -1,6 +1,6 @@
-### Hi there 👋
-
-
+### Hello, world! 👋   
+   
+   
 ## Introduction
 **채 윤 화**
 > 2004. 10. 13.
